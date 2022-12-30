@@ -27,7 +27,7 @@
 	 ?>
 	 
 	 <p>
-		<a dowload ="<?php echo $files[$a] ?>"  href="download/<?php echo $files[$a] ?>"><?php echo $files["$a"] ?></a>
+		<a download ="<?php echo $files[$a] ?>"  href="download/<?php echo $files[$a] ?>"><?php echo $files["$a"] ?></a>
 
 	 </P>
 	
